@@ -1,2 +1,3 @@
 # Hello-World
-First Program
+Easy start
+<br>First time using GitHub
